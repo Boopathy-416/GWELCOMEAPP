@@ -1,0 +1,77 @@
+{
+    "user":[
+        {
+            "id":1,
+            "name":"Boopathy",
+            "dob":"11/08/2000",
+            "adhar":"1254 1256 3652",
+            "pan":"gaco1234",
+            "imagefilename":"1.jpg",
+            "email":"abc@gmail.com"
+            
+        },
+        {
+            "id":2,
+            "name":"levi hio",
+            "dob":"19/09/2000",
+            "adhar":"1254 1256 3652",
+            "pan":"caxp1234",
+            "imagefilename":"2.jpg",
+            "email":"abc@gmail.com"
+        },
+        {
+            "id":3,
+            "name":"john dio",
+            "dob":"01/03/2000",
+            "adhar":"1254 1256 3652",
+            "pan":"gaco1234",
+            "imagefilename":"3.jpg",
+            "email":"abc@gmail.com"
+        },
+        {
+            "id":4,
+            "name":"Santhosh",
+            "dob":"21/09/2001",
+            "adhar":"1254 1256 3652",
+            "pan":"gaco1234",
+            "imagefilename":"4.jpg",
+            "email":"abc@gmail.com"
+        },
+        {
+            "id":5,
+            "name":"MOhan",
+            "dob":"20/01/2002",
+            "adhar":"1254 1256 3652",
+            "pan":"gaco1234",
+            "imagefilename":"5.jpg",
+            "email":"abc@gmail.com"
+        },
+        {
+            "id":6,
+            "name":"Harish",
+            "dob":"6/06/1997",
+            "adhar":"1254 1256 3652",
+            "pan":"gacp1234",
+            "imagefilename":"6.jpg",
+            "email":"abc@gmail.com"
+        },
+        {
+            "id":7,
+            "name":"Mani",
+            "dob":"27/02/1996",
+            "adhar":"1254 1256 3652",
+            "pan":"gaco1234",
+            "imagefilename":"7.jpg",
+            "email":"abc@gmail.com"
+        },
+        {
+            "id":8,
+            "name":"Shiva",
+            "dob":"4/04/2002",
+            "adhar":"1254 1256 3652",
+            "pan":"gacp1234",
+            "imagefilename":"8.jpg",
+            "email":"abc@gmail.com"
+        }
+    ]
+}
